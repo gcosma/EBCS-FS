@@ -6,7 +6,7 @@ READ ME - Instructions on how to run the code.
 To run the MATLAB code
 Step 1: Run the EBCS.m file
 
-You can replace the dataset and SVM clasifier with those of your choice. 
+You can replace the dataset and SVM classifier with those of your choice. 
 
 Please e-mail us if you find bugs.  
 Sadegh Salesi
