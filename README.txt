@@ -4,7 +4,7 @@ READ ME - Instructions on how to run the code.
 To run the code
 Step 1: Run the EBCS.m file
 
-You can replace the dataset and SVM clasifier with those of your choice. 
+You can replace the dataset and SVM classifier with those of your choice. 
 
 Please e-mail us if you find bugs.  
 Sadegh Salesi
@@ -16,13 +16,13 @@ georgina.cosma@ntu.ac.uk
 
 Reference: S. Salesi and G. Cosma, "A novel extended binary cuckoo search algorithm for feature selection," 2017 2nd International Conference on Knowledge Engineering and Applications (ICKEA), London, 2017, pp. 6-12.
 doi: 10.1109/ICKEA.2017.8169893
-keywords: {feature selection;optimisation;pattern classification;random processes;search problems;support vector machines;pseudobinary mutation neighbourhood search procedure;extended binary cuckoo search algorithm;feature selection;classification accuracy;cuckoo birds;Lévy flight random walk;search space;Lévy flight mechanism;extended binary cuckoo search optimisation;cuckoo search strategy;support vector machine classifier;Optimization;Search problems;Feature extraction;Birds;Algorithm design and analysis;Space exploration;Convergence;feature selection;classification;cuckoo search;metaheuristic optimisation;nature-inspired algorithms},
+keywords: {feature selection;optimisation;pattern classification;random processes;search problems;support vector machines;pseudobinary mutation neighbourhood search procedure;extended binary cuckoo search algorithm;feature selection;classification accuracy;cuckoo birds;LÃ©vy flight random walk;search space;LÃ©vy flight mechanism;extended binary cuckoo search optimisation;cuckoo search strategy;support vector machine classifier;Optimization;Search problems;Feature extraction;Birds;Algorithm design and analysis;Space exploration;Convergence;feature selection;classification;cuckoo search;metaheuristic optimisation;nature-inspired algorithms},
 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8169893&isnumber=8169886
 
 Abstract:
 Cuckoo Search is a recent nature-inspired metaheuristic algorithm, inspired by the cuckoo birds' aggressive strategy to breeding. 
-The Cuckoo Search algorithm iteratively uses a Lévy flight random walk to explore a search space. 
-The Lévy flight mechanism takes sudden turns of 90 degrees and consequently the Cuckoo's Search strategy does not carefully 
+The Cuckoo Search algorithm iteratively uses a LÃ©vy flight random walk to explore a search space. 
+The LÃ©vy flight mechanism takes sudden turns of 90 degrees and consequently the Cuckoo's Search strategy does not carefully 
 search around the cuckoos' nest, and hence it suffers from slow convergence and low optimisation accuracy. 
 In order to improve the weaknesses of the Cuckoo Search algorithm, this paper proposes a pseudobinary mutation 
 neighbourhood search procedure embedded in a new binary version of the Cuckoo Search algorithm. The proposed Extended Binary Cuckoo 
@@ -44,7 +44,7 @@ year={2017},
 volume={}, 
 number={}, 
 pages={6-12}, 
-keywords={feature selection;optimisation;pattern classification;random processes;search problems;support vector machines;pseudobinary mutation neighbourhood search procedure;extended binary cuckoo search algorithm;feature selection;classification accuracy;cuckoo birds;Lévy flight random walk;search space;Lévy flight mechanism;extended binary cuckoo search optimisation;cuckoo search strategy;support vector machine classifier;Optimization;Search problems;Feature extraction;Birds;Algorithm design and analysis;Space exploration;Convergence;feature selection;classification;cuckoo search;metaheuristic optimisation;nature-inspired algorithms}, 
+keywords={feature selection;optimisation;pattern classification;random processes;search problems;support vector machines;pseudobinary mutation neighbourhood search procedure;extended binary cuckoo search algorithm;feature selection;classification accuracy;cuckoo birds;LÃ©vy flight random walk;search space;LÃ©vy flight mechanism;extended binary cuckoo search optimisation;cuckoo search strategy;support vector machine classifier;Optimization;Search problems;Feature extraction;Birds;Algorithm design and analysis;Space exploration;Convergence;feature selection;classification;cuckoo search;metaheuristic optimisation;nature-inspired algorithms}, 
 doi={10.1109/ICKEA.2017.8169893}, 
 ISSN={}, 
 month={Oct},}
