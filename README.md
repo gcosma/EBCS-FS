@@ -1,5 +1,5 @@
 # EBCS-FS
-Extended Binary Cuckoo Search
+Extended Binary Cuckoo Search for Feature Selection
 ------------------------------------------------------------------------------
 READ ME - Instructions on how to run the code.  
 ------------------------------------------------------------------------------
