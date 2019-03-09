@@ -1,4 +1,4 @@
-# EBCS
+# EBCS-FS
 Extended Binary Cuckoo Search
 ------------------------------------------------------------------------------
 READ ME - Instructions on how to run the code.  
